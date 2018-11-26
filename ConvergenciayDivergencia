@@ -22,5 +22,4 @@ print ("Usando %i iteraciones"%itera)
 plt.plot(xexe,x0array,x1array)
 plt.grid()
 
-#La raiz es 1.00000
-#Usando 69 iteraciones
+![graph](https://cocalc.com/78368d4d-6bad-4003-90cc-6016a0509721/raw/.smc/jupyter/blobs/a.png?sha1=cf268cbfc0418ea9c61fbff3abbce9f74a1760c7&attempts=0)
