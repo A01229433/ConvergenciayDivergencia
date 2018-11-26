@@ -21,3 +21,6 @@ print ("La raiz es %.5f"%x1)
 print ("Usando %i iteraciones"%itera)
 plt.plot(xexe,x0array,x1array)
 plt.grid()
+
+#La raiz es 1.00000
+#Usando 69 iteraciones
