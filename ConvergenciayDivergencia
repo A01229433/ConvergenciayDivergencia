@@ -21,5 +21,3 @@ print ("La raiz es %.5f"%x1)
 print ("Usando %i iteraciones"%itera)
 plt.plot(xexe,x0array,x1array)
 plt.grid()
-
-![graph](https://cocalc.com/78368d4d-6bad-4003-90cc-6016a0509721/raw/.smc/jupyter/blobs/a.png?sha1=cf268cbfc0418ea9c61fbff3abbce9f74a1760c7&attempts=0)
